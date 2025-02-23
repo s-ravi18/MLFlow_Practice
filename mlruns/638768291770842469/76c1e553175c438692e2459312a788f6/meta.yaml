@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/virendra/Desktop/Sample%20MLOps/Sample%20for%20MLOps/mlruns/638768291770842469/76c1e553175c438692e2459312a788f6/artifacts
+deleted_time: 1740319767831
+end_time: 1740319507451
+entry_point_name: ''
+experiment_id: '638768291770842469'
+lifecycle_stage: deleted
+run_id: 76c1e553175c438692e2459312a788f6
+run_name: First Experiment Run
+run_uuid: 76c1e553175c438692e2459312a788f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740319507390
+status: 4
+tags: []
+user_id: virendra
