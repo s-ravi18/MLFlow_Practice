@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/abf91b2833a9426fafeffd459ce5a54a/artifacts
+end_time: 1741233456876
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: abf91b2833a9426fafeffd459ce5a54a
+run_name: whimsical-rook-665
+run_uuid: abf91b2833a9426fafeffd459ce5a54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233455366
+status: 3
+tags: []
+user_id: virendra

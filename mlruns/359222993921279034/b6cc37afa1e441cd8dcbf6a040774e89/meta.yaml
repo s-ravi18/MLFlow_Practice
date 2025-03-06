@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/b6cc37afa1e441cd8dcbf6a040774e89/artifacts
+end_time: 1741233393824
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: b6cc37afa1e441cd8dcbf6a040774e89
+run_name: bedecked-snail-716
+run_uuid: b6cc37afa1e441cd8dcbf6a040774e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233392386
+status: 3
+tags: []
+user_id: virendra

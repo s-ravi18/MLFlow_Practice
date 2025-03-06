@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/8e3869bc45694800b2b1c03c21fb7fdf/artifacts
+end_time: 1741233450858
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 8e3869bc45694800b2b1c03c21fb7fdf
+run_name: omniscient-trout-644
+run_uuid: 8e3869bc45694800b2b1c03c21fb7fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233449329
+status: 3
+tags: []
+user_id: virendra

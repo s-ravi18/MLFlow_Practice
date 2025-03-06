@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/a65c12d8cb904072bc8a0651dd012aac/artifacts
+end_time: 1741233377816
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: a65c12d8cb904072bc8a0651dd012aac
+run_name: bedecked-sloth-166
+run_uuid: a65c12d8cb904072bc8a0651dd012aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233376389
+status: 3
+tags: []
+user_id: virendra

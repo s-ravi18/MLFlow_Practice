@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/bcff62d0a69e4903851f2786ebafaad8/artifacts
+end_time: 1741233434164
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: bcff62d0a69e4903851f2786ebafaad8
+run_name: bald-turtle-683
+run_uuid: bcff62d0a69e4903851f2786ebafaad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233432718
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/bb2becdd323f492db082487a6448431c/artifacts
+end_time: 1741233355700
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: bb2becdd323f492db082487a6448431c
+run_name: awesome-ram-206
+run_uuid: bb2becdd323f492db082487a6448431c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233354186
+status: 3
+tags: []
+user_id: virendra

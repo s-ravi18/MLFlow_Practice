@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/a879e0a2f7e4431784bbc6148fa0e38d/artifacts
+end_time: 1741233369101
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: a879e0a2f7e4431784bbc6148fa0e38d
+run_name: smiling-vole-28
+run_uuid: a879e0a2f7e4431784bbc6148fa0e38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233367670
+status: 3
+tags: []
+user_id: virendra

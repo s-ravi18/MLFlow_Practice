@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/9cfd56121f7c420e872bf810c3c375ff/artifacts
+end_time: 1741233399623
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 9cfd56121f7c420e872bf810c3c375ff
+run_name: amazing-doe-715
+run_uuid: 9cfd56121f7c420e872bf810c3c375ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233398171
+status: 3
+tags: []
+user_id: virendra

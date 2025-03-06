@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/563b40d20e7449808e0229507b62a1fc/artifacts
+end_time: 1741233389450
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 563b40d20e7449808e0229507b62a1fc
+run_name: trusting-frog-745
+run_uuid: 563b40d20e7449808e0229507b62a1fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233387995
+status: 3
+tags: []
+user_id: virendra

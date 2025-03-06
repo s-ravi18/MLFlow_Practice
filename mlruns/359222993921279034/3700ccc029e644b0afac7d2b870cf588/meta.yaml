@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/3700ccc029e644b0afac7d2b870cf588/artifacts
+end_time: 1741233431124
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 3700ccc029e644b0afac7d2b870cf588
+run_name: calm-cow-719
+run_uuid: 3700ccc029e644b0afac7d2b870cf588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233429478
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/03ea46d3ca4a4adbb803ce3143d6874f/artifacts
+end_time: 1741233455327
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 03ea46d3ca4a4adbb803ce3143d6874f
+run_name: inquisitive-doe-309
+run_uuid: 03ea46d3ca4a4adbb803ce3143d6874f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233453872
+status: 3
+tags: []
+user_id: virendra

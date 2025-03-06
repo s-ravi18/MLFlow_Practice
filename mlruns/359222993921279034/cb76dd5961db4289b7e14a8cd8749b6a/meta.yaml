@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/cb76dd5961db4289b7e14a8cd8749b6a/artifacts
+end_time: 1741233351172
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: cb76dd5961db4289b7e14a8cd8749b6a
+run_name: thundering-worm-332
+run_uuid: cb76dd5961db4289b7e14a8cd8749b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233349681
+status: 3
+tags: []
+user_id: virendra

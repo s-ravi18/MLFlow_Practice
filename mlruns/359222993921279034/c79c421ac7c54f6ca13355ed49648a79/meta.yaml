@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/c79c421ac7c54f6ca13355ed49648a79/artifacts
+end_time: 1741233360360
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: c79c421ac7c54f6ca13355ed49648a79
+run_name: gaudy-kite-956
+run_uuid: c79c421ac7c54f6ca13355ed49648a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233358720
+status: 3
+tags: []
+user_id: virendra

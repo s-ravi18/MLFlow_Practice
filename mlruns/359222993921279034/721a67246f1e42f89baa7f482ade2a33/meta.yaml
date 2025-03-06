@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/721a67246f1e42f89baa7f482ade2a33/artifacts
+end_time: 1741233435619
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 721a67246f1e42f89baa7f482ade2a33
+run_name: wistful-dolphin-140
+run_uuid: 721a67246f1e42f89baa7f482ade2a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233434170
+status: 3
+tags: []
+user_id: virendra

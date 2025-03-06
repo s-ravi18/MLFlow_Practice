@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/67fdae6ddef5414d8092762bd1953241/artifacts
+end_time: 1741233386538
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 67fdae6ddef5414d8092762bd1953241
+run_name: big-lynx-78
+run_uuid: 67fdae6ddef5414d8092762bd1953241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233385065
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/917591f361a14519882a07bd116f5732/artifacts
+end_time: 1741233370556
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 917591f361a14519882a07bd116f5732
+run_name: bold-trout-637
+run_uuid: 917591f361a14519882a07bd116f5732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233369107
+status: 3
+tags: []
+user_id: virendra

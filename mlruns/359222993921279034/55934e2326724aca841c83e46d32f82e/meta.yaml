@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/55934e2326724aca841c83e46d32f82e/artifacts
+end_time: 1741233372013
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 55934e2326724aca841c83e46d32f82e
+run_name: charming-shrimp-906
+run_uuid: 55934e2326724aca841c83e46d32f82e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233370562
+status: 3
+tags: []
+user_id: virendra

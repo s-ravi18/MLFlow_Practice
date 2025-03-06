@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/737304f926ba4323826cb9fe3274ad85/artifacts
+end_time: 1741233352687
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 737304f926ba4323826cb9fe3274ad85
+run_name: abrasive-loon-223
+run_uuid: 737304f926ba4323826cb9fe3274ad85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233351179
+status: 3
+tags: []
+user_id: virendra

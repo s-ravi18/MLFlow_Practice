@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/359222993921279034
+creation_time: 1741233298723
+experiment_id: '359222993921279034'
+last_update_time: 1741233298723
+lifecycle_stage: active
+name: XGBoost_GridSearch

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/d2da36b65df7438d859078e8425b43e3/artifacts
+end_time: 1741233405487
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: d2da36b65df7438d859078e8425b43e3
+run_name: nimble-midge-933
+run_uuid: d2da36b65df7438d859078e8425b43e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233404010
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/41de61a6ec854b83b5ae6fc169cda820/artifacts
+end_time: 1741233402538
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 41de61a6ec854b83b5ae6fc169cda820
+run_name: clean-snail-367
+run_uuid: 41de61a6ec854b83b5ae6fc169cda820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233401114
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/a9ffc0009c954a5987001fc4b1c67a61/artifacts
+end_time: 1741233418661
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: a9ffc0009c954a5987001fc4b1c67a61
+run_name: unleashed-moose-232
+run_uuid: a9ffc0009c954a5987001fc4b1c67a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233417139
+status: 3
+tags: []
+user_id: virendra

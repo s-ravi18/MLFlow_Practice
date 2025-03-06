@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/0b61f9d4f6394707b3ba788a2f588a8c/artifacts
+end_time: 1741233421923
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 0b61f9d4f6394707b3ba788a2f588a8c
+run_name: overjoyed-calf-357
+run_uuid: 0b61f9d4f6394707b3ba788a2f588a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233420307
+status: 3
+tags: []
+user_id: virendra

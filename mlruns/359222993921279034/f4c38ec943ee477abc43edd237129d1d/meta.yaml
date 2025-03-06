@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/f4c38ec943ee477abc43edd237129d1d/artifacts
+end_time: 1741233340244
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: f4c38ec943ee477abc43edd237129d1d
+run_name: gregarious-stag-76
+run_uuid: f4c38ec943ee477abc43edd237129d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233333943
+status: 3
+tags: []
+user_id: virendra

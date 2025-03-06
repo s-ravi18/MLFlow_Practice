@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/918a853edee74d81a9f317957fa31a32/artifacts
+end_time: 1741233361813
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 918a853edee74d81a9f317957fa31a32
+run_name: glamorous-midge-41
+run_uuid: 918a853edee74d81a9f317957fa31a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233360369
+status: 3
+tags: []
+user_id: virendra

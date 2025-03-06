@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/527228556645444838/3130f7ff0a5247a28dcb5b34722e7cce/artifacts
+end_time: 1741234086973
+entry_point_name: ''
+experiment_id: '527228556645444838'
+lifecycle_stage: active
+run_id: 3130f7ff0a5247a28dcb5b34722e7cce
+run_name: selective-asp-333
+run_uuid: 3130f7ff0a5247a28dcb5b34722e7cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741234081788
+status: 4
+tags: []
+user_id: virendra

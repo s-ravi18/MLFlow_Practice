@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/e7ae381ba7c7447cb1b43891ae9e7e2a/artifacts
+end_time: 1741233357184
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: e7ae381ba7c7447cb1b43891ae9e7e2a
+run_name: classy-deer-239
+run_uuid: e7ae381ba7c7447cb1b43891ae9e7e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233355706
+status: 3
+tags: []
+user_id: virendra

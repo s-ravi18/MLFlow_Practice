@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/97db50b1394a49459899cd1bd053ab7c/artifacts
+end_time: 1741233363256
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 97db50b1394a49459899cd1bd053ab7c
+run_name: gaudy-cow-479
+run_uuid: 97db50b1394a49459899cd1bd053ab7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233361819
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/f13ebc03b7e84ebeae9ade90138a2c00/artifacts
+end_time: 1741233427983
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: f13ebc03b7e84ebeae9ade90138a2c00
+run_name: adorable-doe-555
+run_uuid: f13ebc03b7e84ebeae9ade90138a2c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233426489
+status: 3
+tags: []
+user_id: virendra

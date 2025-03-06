@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/5bd0b1d17a444aa8afb029aa8ba16085/artifacts
+end_time: 1741233364748
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 5bd0b1d17a444aa8afb029aa8ba16085
+run_name: adorable-ram-285
+run_uuid: 5bd0b1d17a444aa8afb029aa8ba16085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233363262
+status: 3
+tags: []
+user_id: virendra

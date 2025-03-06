@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/63d0b24421b54d14b53edf8ad01702a1/artifacts
+end_time: 1741233452388
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 63d0b24421b54d14b53edf8ad01702a1
+run_name: invincible-goat-28
+run_uuid: 63d0b24421b54d14b53edf8ad01702a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233450869
+status: 3
+tags: []
+user_id: virendra

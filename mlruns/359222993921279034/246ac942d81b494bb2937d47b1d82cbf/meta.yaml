@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/246ac942d81b494bb2937d47b1d82cbf/artifacts
+end_time: 1741233414161
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 246ac942d81b494bb2937d47b1d82cbf
+run_name: unruly-slug-680
+run_uuid: 246ac942d81b494bb2937d47b1d82cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233412699
+status: 3
+tags: []
+user_id: virendra

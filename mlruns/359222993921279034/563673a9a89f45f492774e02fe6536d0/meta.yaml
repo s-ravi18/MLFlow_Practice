@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/563673a9a89f45f492774e02fe6536d0/artifacts
+end_time: 1741233354180
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 563673a9a89f45f492774e02fe6536d0
+run_name: nebulous-pug-594
+run_uuid: 563673a9a89f45f492774e02fe6536d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233352693
+status: 3
+tags: []
+user_id: virendra

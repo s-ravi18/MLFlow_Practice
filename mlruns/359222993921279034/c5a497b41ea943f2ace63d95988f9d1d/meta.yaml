@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/c5a497b41ea943f2ace63d95988f9d1d/artifacts
+end_time: 1741233411265
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: c5a497b41ea943f2ace63d95988f9d1d
+run_name: intrigued-goat-609
+run_uuid: c5a497b41ea943f2ace63d95988f9d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233409786
+status: 3
+tags: []
+user_id: virendra

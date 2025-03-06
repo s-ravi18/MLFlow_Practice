@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/ed2d806339a545339c72ac003920e6b4/artifacts
+end_time: 1741233440049
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: ed2d806339a545339c72ac003920e6b4
+run_name: delightful-hen-544
+run_uuid: ed2d806339a545339c72ac003920e6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233438463
+status: 3
+tags: []
+user_id: virendra

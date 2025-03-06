@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/190e5a27dff347299ed89e1cecfe8bbe/artifacts
+end_time: 1741233447678
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 190e5a27dff347299ed89e1cecfe8bbe
+run_name: redolent-roo-851
+run_uuid: 190e5a27dff347299ed89e1cecfe8bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233446124
+status: 3
+tags: []
+user_id: virendra

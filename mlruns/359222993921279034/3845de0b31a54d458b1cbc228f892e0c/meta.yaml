@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/3845de0b31a54d458b1cbc228f892e0c/artifacts
+end_time: 1741233367640
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 3845de0b31a54d458b1cbc228f892e0c
+run_name: sincere-croc-879
+run_uuid: 3845de0b31a54d458b1cbc228f892e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233366231
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/cb032d89615f467ea16524b62317eea5/artifacts
+end_time: 1741233426484
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: cb032d89615f467ea16524b62317eea5
+run_name: powerful-kit-557
+run_uuid: cb032d89615f467ea16524b62317eea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233424983
+status: 3
+tags: []
+user_id: virendra

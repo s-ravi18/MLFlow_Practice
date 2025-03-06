@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/c5a3aa4f997d48d1b3d469a55dd1509c/artifacts
+end_time: 1741233412693
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: c5a3aa4f997d48d1b3d469a55dd1509c
+run_name: bright-gull-962
+run_uuid: c5a3aa4f997d48d1b3d469a55dd1509c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233411271
+status: 3
+tags: []
+user_id: virendra

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/0cc8dd0bc5dd4997bafbb11ae27f9c3f/artifacts
+end_time: 1741233408365
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 0cc8dd0bc5dd4997bafbb11ae27f9c3f
+run_name: caring-bat-623
+run_uuid: 0cc8dd0bc5dd4997bafbb11ae27f9c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233406954
+status: 3
+tags: []
+user_id: virendra

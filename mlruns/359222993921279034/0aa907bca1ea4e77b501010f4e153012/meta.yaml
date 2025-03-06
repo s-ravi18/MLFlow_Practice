@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/0aa907bca1ea4e77b501010f4e153012/artifacts
+end_time: 1741233382245
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 0aa907bca1ea4e77b501010f4e153012
+run_name: agreeable-duck-161
+run_uuid: 0aa907bca1ea4e77b501010f4e153012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233380815
+status: 3
+tags: []
+user_id: virendra

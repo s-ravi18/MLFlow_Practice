@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/d225dccccb104927952e2cc80240062d/artifacts
+end_time: 1741233358715
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: d225dccccb104927952e2cc80240062d
+run_name: blushing-jay-761
+run_uuid: d225dccccb104927952e2cc80240062d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233357193
+status: 3
+tags: []
+user_id: virendra

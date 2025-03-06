@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/69136f4b16eb4cc4ab3b7759eea52e1a/artifacts
+end_time: 1741233406949
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 69136f4b16eb4cc4ab3b7759eea52e1a
+run_name: popular-sloth-49
+run_uuid: 69136f4b16eb4cc4ab3b7759eea52e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233405493
+status: 3
+tags: []
+user_id: virendra

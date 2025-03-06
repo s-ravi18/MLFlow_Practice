@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/fd7206924f80452e877111d2a946d4d0/artifacts
+end_time: 1741233424977
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: fd7206924f80452e877111d2a946d4d0
+run_name: indecisive-shoat-804
+run_uuid: fd7206924f80452e877111d2a946d4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233423471
+status: 3
+tags: []
+user_id: virendra

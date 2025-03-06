@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/359222993921279034/697ec963ebdc442ba736bff5beeb1d47/artifacts
+end_time: 1741233429473
+entry_point_name: ''
+experiment_id: '359222993921279034'
+lifecycle_stage: active
+run_id: 697ec963ebdc442ba736bff5beeb1d47
+run_name: nimble-steed-483
+run_uuid: 697ec963ebdc442ba736bff5beeb1d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741233427988
+status: 3
+tags: []
+user_id: virendra

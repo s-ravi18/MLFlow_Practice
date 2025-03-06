@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/527228556645444838
+creation_time: 1741233881969
+experiment_id: '527228556645444838'
+last_update_time: 1741233881969
+lifecycle_stage: active
+name: XGBoost_RandomisedSearch
